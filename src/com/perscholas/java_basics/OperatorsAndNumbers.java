@@ -163,7 +163,6 @@ public class OperatorsAndNumbers {
         // when ++x was used value 14 was printed and when x++ was used value 13 is printed
         int sum = x++ + y ;
         System.out.println(sum);
-
-
+        
     }
 }
